@@ -1,5 +1,5 @@
 # echarts框架实现行政区划地图
-第一次使用echarts框架实现行政区划地图。
+使用echarts框架实现北京市海淀区行政区划地图。
 # 效果图：
 ![效果图](https://raw.githubusercontent.com/perfectSymphony/echarts_haidian/master/haidian.png)
 # 小结：<br/>
